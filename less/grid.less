@@ -1,0 +1,22 @@
+.pageContent {
+  .clearfix();
+  margin: 0  auto;
+  max-width: 42em;
+  padding: 0 3em;
+  position: relative;
+  &.full {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 640px) {
+  .pageContent {
+    padding: 0 2em;
+  }
+}
+
+@media (max-width: 320px) {
+  .pageContent {
+    padding: 0 0.5em;
+  }
+}
