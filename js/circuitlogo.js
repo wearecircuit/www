@@ -95,7 +95,7 @@ CircuitLogo.prototype.paintLogo = function( context ) {
     context.closePath();
     context.fill();
 
-    // Draw medium colour
+    // Draw Medium colour
     context.beginPath();
     context.fillStyle = 'rgb(' + this.colours[1].join(',') + ')';
     context.moveTo( 0, this.yb/2 + this.ya );
