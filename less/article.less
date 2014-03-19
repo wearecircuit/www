@@ -37,7 +37,9 @@ article {
       font-family: 'Gerogia';
       font-style: italic;
       font-size: 1.2em;
-
+      a {
+        color: inherit;
+      }
     }
     .line {
       width: 2em;
@@ -53,13 +55,34 @@ article {
 //    -webkit-column-count:3; /* Chrome, Safari, Opera */
 //    -moz-column-count:3; /* Firefox */
 //    column-count:3;
+    dl {
+      margin-bottom: 2em;
+    }
+    dt {
+      float: left;
+      clear: left;
+      width: 2em;
+      text-align: left;
+      font-weight: bold;
+    }
+    dt:after {
+      content: ":";
+    }
+    dd {
+      margin: 0 0 0 4em;
+      padding: 0 0 0.5em 0;
+    }
     p {
       font-size: 1em;
       line-height: 1.5em;
       margin-bottom: 1em;
+      a {
+        color: inherit;
+      }
       strong {
         font-weight: bold;
       }
+
     }
     h3 {
       font-weight: bold;
