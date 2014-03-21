@@ -3,8 +3,7 @@ www
 
 1. Mobilen - man ska inte kunna ringa org.nr. man ska kunna maila hello@circuit.se
 2. Lägga upp foton på alla anställda
-2. Uteslut muggiga färger
-3. kolla att 301-redirects verkligen fungerar
+3. Uteslut muggiga färger
 4. Footer - länk till googlekarta? Klickbara telefonnummer.
 5. Bilderna på startsidan blir bara mindre, ska kanske sorteras om?
 6. Tjänster - bullet-tecken?
