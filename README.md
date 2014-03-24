@@ -15,5 +15,5 @@ Todo
 - Support terms.
 - Easter egg memory.
 - Make Workbuster the data source for job ads.
-- CMS.
+- CMS. (Jekyll?)
 - English.
