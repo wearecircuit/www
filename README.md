@@ -11,10 +11,11 @@ Todo
 - Fix colour spectrum.
 - Fix job ad links.
 - Newsletter.
-- Case.
 - Support terms.
+- Case. (Humana, Sapa, Sony, Poolia, Northstream)
 - Update about Circuit on (http://www.episerver.se/Partners/Sverige/Circuit/)
 - Easter egg memory.
 - Make Workbuster the data source for job ads.
 - CMS. (Jekyll?)
 - English.
+- Move to cheaper hosting.
