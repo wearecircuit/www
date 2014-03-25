@@ -7,10 +7,11 @@ This is the public repo of our public website http://www.circuit.se
 Todo
 ----
 - Iphone interprets org.nr as telephone. Make hello@circuit.se mailable.
+- Make sure logo links to circuit.se-root
 - Photos of all employeees, including a new picture of LSJ which is disturbing.
 - Fix colour spectrum.
 - Fix job ad links.
-- Newsletter.
+- Be able to subscribe to newsletter.
 - Support terms.
 - Case. (Humana, Sapa, Sony, Poolia, Northstream)
 - Update about Circuit on (http://www.episerver.se/Partners/Sverige/Circuit/)
