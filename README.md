@@ -20,3 +20,4 @@ Todo
 - CMS. (Jekyll?)
 - English.
 - Move to cheaper hosting.
+- color favicon.
