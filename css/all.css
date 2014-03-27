@@ -240,6 +240,8 @@ hr {
 .pageHeader a {
   text-decoration: none;
   color: #000;
+   text-transform: uppercase;
+  letter-spacing: 0.1em;
 }
 /* line 8, /Users/janjarfalk/Dropbox (Circuit)/circuit.se/source/less/pageHeader.less */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/janjarfalk\/Dropbox (Circuit)\/circuit\.se\/source\/less\/pageHeader\.less}line{font-family:\000038}}
