@@ -544,8 +544,9 @@ article header h1 {
 article header h2 {
   margin-top: 4px;
   font-size: 1.5em;
-  font-weight: bold;
+  font-weight: normal;
   text-transform: uppercase;
+  letter-spacing: 0.1em;
 }
 /* line 36, /Users/janjarfalk/Dropbox (Circuit)/circuit.se/source/less/article.less */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/janjarfalk\/Dropbox (Circuit)\/circuit\.se\/source\/less\/article\.less}line{font-family:\0000336}}
