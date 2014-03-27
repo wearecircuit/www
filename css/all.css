@@ -250,7 +250,7 @@ hr {
   float: left;
   font-weight: normal;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.2em;
 }
 /* line 14, /Users/janjarfalk/Dropbox (Circuit)/circuit.se/source/less/pageHeader.less */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/janjarfalk\/Dropbox (Circuit)\/circuit\.se\/source\/less\/pageHeader\.less}line{font-family:\0000314}}
