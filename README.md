@@ -6,6 +6,7 @@ This is the public repo of our public website http://www.circuit.se
 
 Todo
 ----
+- Call to action / form. (maybe prefilled in some way?)
 - Iphone interprets org.nr as telephone. Make hello@circuit.se mailable.
 - Make sure logo links to circuit.se-root
 - Photos of all employeees, including a new picture of LSJ which is disturbing.
