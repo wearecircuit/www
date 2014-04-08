@@ -22,3 +22,4 @@ Todo
 - English.
 - Move to cheaper hosting.
 - color favicon.
+- Förbättringar needs a new icon.
