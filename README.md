@@ -9,7 +9,7 @@ Todo
 - Call to action / form. (maybe prefilled in some way?)
 - Iphone interprets org.nr as telephone. Make hello@circuit.se mailable.
 - Make sure logo links to circuit.se-root
-- Photos of all employeees, including a new picture of LSJ which is disturbing.
+- Photos of all employeees, including a new picture of LSJ which is disturbing.*
 - Fix colour spectrum.
 - Fix job ad links.
 - Be able to subscribe to newsletter.
@@ -23,3 +23,12 @@ Todo
 - Move to cheaper hosting.
 - color favicon.
 - Förbättringar needs a new icon.
+
+MISSING PERSONS*
+Joakim Bjarnestam
+Kristofer Karlsson
+Mounir Kedidi
+David Höök
+Anders Liljedal
+Alexander Kafkaletos
+Marcus Lindén
