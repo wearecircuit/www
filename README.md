@@ -23,6 +23,7 @@ Todo
 - Move to cheaper hosting.
 - color favicon.
 - Förbättringar needs a new icon.
+- Kundifiering - ex. när Vinge surfar till siten så står det "Välkommen Vinge, vad kan vi hjälpa er med idag?" visas deras kontaktpersoner och spelas lagens änglar-musik.
 
 MISSING PERSONS*
 Joakim Bjarnestam
