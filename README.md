@@ -6,6 +6,8 @@ This is the public repo of our public website http://www.circuit.se
 
 Todo
 ----
+- Kolla HTML-fel i Google Web Master tools
+- Google Analytics verifieringsfel (Google Analytics kan inte verifiera, verkar som om koden ligger på fel ställe)
 - Call to action / form. (maybe prefilled in some way?)
 - Iphone interprets org.nr as telephone. Make hello@circuit.se mailable.
 - Make sure logo links to circuit.se-root
