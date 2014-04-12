@@ -15,8 +15,14 @@ Todo
 - Fix colour spectrum.
 - Fix job ad links.
 - Be able to subscribe to newsletter.
-- Support terms.
-- Case. (Humana, Sapa, Sony, Poolia, Northstream)
+- Case
+  - Northstream (started)
+  - Sapa
+  - Humana
+  - Recipharm
+  - Sony
+  - Poolia (when ready)
+  - Mannheimer Swartling (if ok)
 - Update about Circuit on (http://www.episerver.se/Partners/Sverige/Circuit/)
 - Easter egg memory.
 - Make Workbuster the data source for job ads.
@@ -28,10 +34,10 @@ Todo
 - Kundifiering - ex. när Vinge surfar till siten så står det "Välkommen Vinge, vad kan vi hjälpa er med idag?" visas deras kontaktpersoner och spelas lagens änglar-musik.
 
 MISSING PERSONS*
-Joakim Bjarnestam
-Kristofer Karlsson
-Mounir Kedidi
-David Höök
-Anders Liljedal
-Alexander Kafkaletos
-Marcus Lindén
+- Joakim Bjarnestam
+- Kristofer Karlsson
+- Mounir Kedidi
+- David Höök
+- Anders Liljedal
+- Alexander Kafkaletos
+- Marcus Lindén
