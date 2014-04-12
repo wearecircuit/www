@@ -23,9 +23,9 @@ Todo
   - Sony
   - Poolia (when ready)
   - Mannheimer Swartling (if ok)
-- Update about Circuit on (http://www.episerver.se/Partners/Sverige/Circuit/)
-- Easter egg memory.
 - Make Workbuster the data source for job ads.
+  - Be able to add more than 4 ads   
+- Easter egg memory.
 - CMS. (Jekyll?)
 - English.
 - Move to cheaper hosting.
