@@ -6,6 +6,7 @@ This is the public repo of our public website http://www.circuit.se
 
 Todo
 ----
+- Kolla formateringen på /forvaltning/index.html samt länka från olika ställen och till supportavtalen.
 - Kolla HTML-fel i Google Web Master tools
 - Google Analytics verifieringsfel (Google Analytics kan inte verifiera, verkar som om koden ligger på fel ställe)
 - Call to action / form. (maybe prefilled in some way?)
