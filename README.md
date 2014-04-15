@@ -8,7 +8,7 @@ Todo
 ----
 
 HTML / CSS
-
+- ibland blir länkarna vita...
 - CMS. (Jekyll?)
 - Move to cheaper hosting.
 - Kolla formateringen på /forvaltning/index.html samt länka från olika ställen och till supportavtalen.
