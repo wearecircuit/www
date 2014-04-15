@@ -6,16 +6,27 @@ This is the public repo of our public website http://www.circuit.se
 
 Todo
 ----
+
+HTML / CSS
+
+- CMS. (Jekyll?)
+- Move to cheaper hosting.
 - Kolla formateringen på /forvaltning/index.html samt länka från olika ställen och till supportavtalen.
 - Kolla HTML-fel i Google Web Master tools
 - Google Analytics verifieringsfel (Google Analytics kan inte verifiera, verkar som om koden ligger på fel ställe)
-- Call to action / form. (maybe prefilled in some way?)
 - Iphone interprets org.nr as telephone. Make hello@circuit.se mailable.
 - Make sure logo links to circuit.se-root
-- Photos of all employeees, including a new picture of LSJ which is disturbing.*
-- Fix colour spectrum.
+- color favicon.
+- Easter egg memory.
+- Kundifiering - ex. när Vinge surfar till siten så står det "Välkommen Vinge, vad kan vi hjälpa er med idag?" visas deras kontaktpersoner och spelas lagens änglar-musik. (Tveksamt om det ska göras)
+
+REPLACE WORKBUSTER
+- Get a demo
+- Make new sys the data source for job ads.
 - Fix job ad links.
-- Be able to subscribe to newsletter.
+
+CONTENT
+- Photos of all employeees, including a new picture of LSJ which is disturbing.*
 - Case
   - Northstream (started)
   - Sapa
@@ -24,15 +35,14 @@ Todo
   - Sony
   - Poolia (when ready)
   - Mannheimer Swartling (if ok)
-- Make Workbuster the data source for job ads.
-  - Be able to add more than 4 ads   
-- Easter egg memory.
-- CMS. (Jekyll?)
-- English.
-- Move to cheaper hosting.
-- color favicon.
+  - English. 
+
+DESIGN
+- Call to action / form. (maybe prefilled in some way?)
+- Fix colour spectrum.
+- Be able to subscribe to newsletter.
+- Be able to add more than 4 ads   
 - Förbättringar needs a new icon.
-- Kundifiering - ex. när Vinge surfar till siten så står det "Välkommen Vinge, vad kan vi hjälpa er med idag?" visas deras kontaktpersoner och spelas lagens änglar-musik.
 
 MISSING PERSONS*
 - Joakim Bjarnestam
@@ -42,3 +52,5 @@ MISSING PERSONS*
 - Anders Liljedal
 - Alexander Kafkaletos
 - Marcus Lindén
+
+Remove Vidigs
