@@ -19,6 +19,7 @@ HTML / CSS
 - color favicon.
 - Easter egg memory.
 - Kundifiering - ex. när Vinge surfar till siten så står det "Välkommen Vinge, vad kan vi hjälpa er med idag?" visas deras kontaktpersoner och spelas lagens änglar-musik. (Tveksamt om det ska göras)
+- Newsfeed / Blogg
 
 REPLACE WORKBUSTER
 - Get a demo
