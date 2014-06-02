@@ -8,11 +8,10 @@ Todo
 ----
 
 HTML / CSS
-- ibland blir länkarna vita...
 - CMS. (Jekyll?)
 - Move to cheaper hosting.
 - Kolla formateringen på /forvaltning/index.html samt länka från olika ställen och till supportavtalen.
-- Kolla HTML-fel i Google Web Master tools
+- Kolla HTML-fel i Google Web Master tools samt bygg en webbplatskarta. 302-redirects.
 - Google Analytics verifieringsfel (Google Analytics kan inte verifiera, verkar som om koden ligger på fel ställe)
 - Iphone interprets org.nr as telephone. Make hello@circuit.se mailable.
 - Make sure logo links to circuit.se-root
