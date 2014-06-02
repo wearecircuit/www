@@ -53,5 +53,3 @@ MISSING PERSONS*
 - Anders Liljedal
 - Alexander Kafkaletos
 - Marcus Lindén
-
-Remove Vidigs
