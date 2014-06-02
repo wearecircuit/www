@@ -9,6 +9,7 @@ Todo
 
 HTML / CSS
 - CMS. (Jekyll?)
+- remove myprospect script?
 - Move to cheaper hosting.
 - Kolla formateringen på /forvaltning/index.html samt länka från olika ställen och till supportavtalen.
 - Kolla HTML-fel i Google Web Master tools samt bygg en webbplatskarta. 302-redirects.
