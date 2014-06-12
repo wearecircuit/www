@@ -20,6 +20,7 @@ HTML / CSS
 - Easter egg memory.
 - Kundifiering - ex. när Vinge surfar till siten så står det "Välkommen Vinge, vad kan vi hjälpa er med idag?" visas deras kontaktpersoner och spelas lagens änglar-musik. (Tveksamt om det ska göras)
 - Newsfeed / Blogg
+- https://support.google.com/webmasters/answer/156184?hl=sv
 
 REPLACE WORKBUSTER
 - Get a demo
