@@ -37,7 +37,20 @@ CONTENT
   - Sony
   - Poolia (when ready)
   - Mannheimer Swartling (if ok)
+  - RF
   - English. 
+- Texter om följande ord
+  - Webbstrategi
+  - Att jobba med oss dvs en webbyrå processer med mera.
+  - UX/Usability
+  - Webbdesign
+  - Responsiv webbdesign
+  - App-utveckling (kanske "Varför bygga app När vi kan bygga bättre i html5")
+  - Markteting Automation / Revenue Perfomance Management
+  - E-Handel
+  - Förbättra ditt intranäts sökmotor "Elastic Search Case"
+  - Gör en skrytvägg med Testimonials och våra episerver awards.
+  - Contentmarketing (Det rimmar ju bra med hur vi vill bygga Google Cred så vi får se till att bli bra på det)
 
 DESIGN
 - Call to action / form. (maybe prefilled in some way?)
